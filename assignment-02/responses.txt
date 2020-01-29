@@ -1,0 +1,25 @@
+Cecilia Bohr
+
+1. Date travels back and forth through the internet via packets. Packets
+are sometimes divided up into parts so that they data can be transferred
+more quickly. Using the internet address from where it started to where
+it's going, the packet(s) travels and then arrives at its correct location.
+
+2. IP addresses, otherwise known as Internet protocols, are how you
+determine the location of the computer. They are an assortment of numbers.
+The DNS, otherwise known as the Domain Name System, is something that
+associates names of websites, with their IP addresses. So in order for
+someone to find a website on the internet, they must know the website,
+and then their computer will locate the IP Address and if they cannot, will
+search other DNS to find it. Teamwork!
+
+3. Cookies are messages that web servers pass to your own web browser
+when you visit certain websites. They are harmless as they are not stored
+in your computer, but just your browser. Sometimes, in order to use a
+site to its full extent, cookies are essential.
+
+4. The three main parts to a URL are:
+
+- the protocol
+- the domain name
+- the path
