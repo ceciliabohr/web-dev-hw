@@ -1,9 +1,9 @@
 # Assignment-05
 ## Cecilia Bohr
 
-1. There can only be one <head> and one <body>. The <head> acts as a container for
-all metadata and is located between the <html> tag and <body> tag. It only shows up
-on your text editor, and will not be publicly seen on your website. The <body> element
+1. There can only be one head and one body. The head acts as a container for
+all metadata and is located between the html tag and body tag. It only shows up
+on your text editor, and will not be publicly seen on your website. The body element
 contains all content of an HTML document including hyperlinks, lists, tables, images
 and text.
 2. Structural markup is basically information about the structure of a document, while
