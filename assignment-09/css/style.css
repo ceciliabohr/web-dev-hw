@@ -1,0 +1,65 @@
+body{
+  background-color: #ADA7A4;
+  text-align: center;
+}
+
+
+h1{
+    color: white;
+    font-family: Optima, sans-serif;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+h2{
+  color: black;
+  font-family: Optima, sans-serif;
+  padding-left: 30%;
+  padding-right: 30%;
+  opacity: 70%;
+}
+
+p{
+  color: white;
+  font-family: Optima, sans-serif;
+  padding-left: 20%;
+  padding-right: 20%
+}
+
+.container {
+  background-color: #E6C5C6;
+  max-width: 100%;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+#S2 {
+  /* the "S2" stands for Square 2 in this case */
+  background-color: #C5B7AE;
+  max-width: 100%;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+#S4 {
+  background-color: #C5B7AE;
+  max-width: 100%;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+#S5 {
+  background-color: #E6C5C6;
+  max-width: 100%;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+.outer-block>p {
+   color: white;
+   background-color: #C5B7AE;
+}
