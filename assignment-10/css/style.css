@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Gotu&family=Parisienne&display=swap');
+
+body {
+  background: url(https://cdn.pixabay.com/photo/2015/12/01/20/28/green-1072828_1280.jpg);
+  background-size: auto;
+  text-align: center;
+  font-family: 'Gotu', sans-serif;
+  font-weight: 600;
+}
+
+/*Text style settings*/
+.text {
+  background-color: #8B0000;
+  opacity: 87%;
+  border-radius: 25px;
+  width: 700px;
+  margin: auto;
+  padding: 25px;
+  line-height: 1.6em;
+}
+p:first-of-type:first-letter{
+  font-family: 'Parisienne', cursive;
+  font-size: 6em;
+  font-weight: bold;
+}
+
+/*Headings style settings*/
+
+h1{
+  font-size: 3.5em
+}
+h1:first-of-type::first-letter {
+  font-family: 'Parisienne', cursive;
+  font-size: 1.75em;
+  font-weight: bolder;
+}
+h2 {
+  margin-top: -3em;
+  text-indent: 12em;
+  font-weight: bolder;
+}
+h3 {
+  margin-top: -1.5em;
+  text-indent: 28em;
+  font-weight: bolder;
+}
+
+
+
+/*words spoken settings*/
+.spoken {
+  font-style: italic;
+}
+
+/*line divider before link*/
+.divider {
+  border: 2px solid black;
+  width: 25%;
+  margin: 1em auto;
+}
+
+
+/*Read More Link*/
+a {
+  background-color: #6B8E23;
+  border-radius: 10px;
+  color: inherit;
+  padding: 8px;
+  background-position: center;
+}
+a:hover {
+  font-style: oblique;
+}
+a:visited {
+  color: white;
+}
