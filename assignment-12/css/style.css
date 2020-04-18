@@ -1,0 +1,55 @@
+body {
+  background-color: #ded6d3;
+  text-align: center;
+  font-family: 'Manrope', sans-serif;
+}
+
+h1 {
+    color: white;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+p {
+  color: white;
+  padding-left: 20%;
+  padding-right: 20%;
+  font-weight: lighter;
+}
+p:first-of-type:first-letter{
+  font-family: 'Oswald', sans-serif;
+  font-size: 3em;
+}
+
+/* Main Page Photos*/
+.container {
+  background-color: #cbbdb5;
+  max-width: 100%;
+  margin: auto;
+  padding: 20px;
+}
+
+.photo1 {
+  max-width: 50%;
+  height: auto;
+}
+
+.container2 {
+  background-color: inherit;
+  max-width: 100%;
+  margin: auto;
+  padding: 20px;
+}
+
+/*Back to Home Link*/
+.back-to-home {
+  background-color: #cecece;
+  width: 100px;
+  height: auto;
+  color: white;
+  text-align: center;
+}
+.back-to-home:hover {
+  background-color: #b2aaa7;
+  border: solid 1px black;
+}
